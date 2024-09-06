@@ -1,1 +1,1 @@
-# Web tamplate scraper
+# Web template scraper
